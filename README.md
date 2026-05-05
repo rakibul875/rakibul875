@@ -1,5 +1,6 @@
+
 <div>
-  <img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="[https://github.com/user-attachments/assets/1fb47504-6e70-42d7-86e5-f379b1ae02e9](https://media.licdn.com/dms/image/v2/D5616AQFGPsSGjMwCnA/profile-displaybackgroundimage-shrink_350_1400/B56ZzCGyCWJMAc-/0/1772783085470?e=1779321600&v=beta&t=Bs7kbxzYlTiizOI_ln0fr5_GjTwMPIBf4B3V9Jq0wxw)" />
+  <img width="1400" height="349" alt="1772783085470" src="https://github.com/user-attachments/assets/9fe29057-540f-4782-88b0-457a64824221" />
 </div>
 
 <div align="center">
