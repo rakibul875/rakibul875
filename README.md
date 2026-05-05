@@ -1,33 +1,62 @@
-![Web  Developer]([https://media.licdn.com/dms/image/v2/D5616AQFGPsSGjMwCnA/profile-displaybackgroundimage-shrink_350_1400/B56ZzCGyCWJMAc-/0/1772783085470?e=1777507200&v=beta&t=Lr8-oPOG-vSFxRNGH14eVRbqnEod_iStPaE-pUOkKWU](https://media.licdn.com/dms/image/v2/D5603AQHOXPaXCnF8mQ/profile-displayphoto-scale_400_400/B56ZzCFbVvHsAg-/0/1772782731040?e=1779321600&v=beta&t=KgjTQHPy2mWl97ehHx-WSwLmylakzknNJSbo-cQZLtQ))
+<div align="center">
 
-### Hi there 👋, I'm Rakibul Islam Ashik
-#### Web  Developer
+# ☁️ Welcome to Rakibul's Dev Cloud ☁️
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=200&section=header&text=Rakibul%20Islam%20Ashik&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-I am an aspiring Full Stack MERN Developer and currently learning Next.js.
+### 🚀 Aspiring Full Stack MERN Developer | Next.js Enthusiast
 
-I have experience working with HTML, CSS, Tailwind CSS, DaisyUI, JavaScript, and React. I enjoy building clean UI, responsive designs, and working with API integration in my projects.
+[![GitHub followers](https://img.shields.io/github/followers/rakibul875?style=social)](https://github.com/rakibul875)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=linkedin)](https://linkedin.com/in/rakibul-islam-ashik-b116033b5)
 
-My goal is to become a professional Full Stack Developer by mastering Next.js and backend technologies. I am continuously learning and improving my skills every day.
+</div>
 
-Skills: REACT / JS / HTML / CSS /Tailwind CSS/DaisyUI
+---
 
-- 🔭 I’m currently working on Book-vibe 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about Web Developer 
+### 🌌 About Me
+I am a passionate **Full Stack MERN Developer** from Sherpur, Bangladesh. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I am expanding my horizons by diving deep into **Next.js** and backend architectures.
 
+- ☁️ **Cloud Focus:** Building scalable and clean web applications.
+- 🌱 **Learning:** Mastering **Next.js** and improving backend efficiency.
+- 💻 **Current Project:** Working on **[Book-vibe]** – an interactive platform for book lovers.
+- ⚡ **Fun Fact:** "Full and fresh code is my power."
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibul875)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-islam-ashik-b116033b5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibul.islam.ashik.882444)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🛠️ Floating Through Technologies (Skills)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul875)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul875&show_icons=true&count_private=true)  
+**Frontend & Styling**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rakibul875/contributions?format=svg&private=true)  
+**Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/rakibul875)  
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rakibul875)  
+---
 
+### 📊 GitHub Sky Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul875&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakibul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul875&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Reach Me in the Cloud
+- 📧 Email: [rakibulislamashik78@gmail.com](mailto:rakibulislamashik78@gmail.com)
+- 💼 LinkedIn: [Rakibul Islam Ashik](https://linkedin.com/in/rakibul-islam-ashik-b116033b5)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
