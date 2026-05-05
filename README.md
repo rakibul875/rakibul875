@@ -42,16 +42,20 @@ I'm a passionate **Full Stack MERN Developer** from Sherpur, Bangladesh — turn
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibul875&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul875&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</div>
+### 📊 My Cloud Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul875&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul875&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Rakibul's Stats" height="180em" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul875&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="180em" />
 </div>
 
----
+<div align="center" style="margin-top: 10px;">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul875&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180em" />
+</div>
 
 ### 📫 Reach Me
 
