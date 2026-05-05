@@ -21,10 +21,10 @@
 
 ```javascript
 const morsalin = {
-  name: "Md. Morsalin",
-  location: "Dhaka, Bangladesh",
+  name: "Rakibul Islam Ashik",
+  location: "Sherpur, Bangladesh",
   role: "Aspiring Software Engineer",
-  education: "Diploma in Engineering (Graduated 2025)", 
+  education: "Diploma in Engineering", 
   training: "Professional Web Development Course @ Programming Hero",
   currentlyLearning: ["Next.js (SSR/CSR)", "TypeScript", "System Design"],
   askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
@@ -38,11 +38,11 @@ const morsalin = {
 ```
 
 
-- 🔭 Currently Learning ** Next.js** 
+- 🔭 Currently Learning ** Node.js** 
 - 🌱 Learning **React.js, Next.js & TypeScript**
 - 💡 Interested in **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
-- 📫 Reach me at **mdmorsalinofficial10@gmail.com**
+- 📫 Reach me at **rakibulislamashik@gmail.com**
 
 ---
 
