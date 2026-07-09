@@ -26,19 +26,19 @@ const morsalin = {
   role: "Aspiring Software Engineer",
   education: "Diploma in Engineering", 
   training: "Professional Web Development Course @ Programming Hero",
-  currentlyLearning: ["Next.js (SSR/CSR)", "TypeScript", "System Design"],
+  currentlyLearning: ["Next.js", "TypeScript", "System Design"],
   askMeAbout: ["React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
   codingPhilosophy: "Clean code and scalable architecture",
   openTo: ["Internships", "Collaborations", "Freelance Projects"],
   funFact: "I debug more than I sleep 💻",
-  email: "mdmorsalinofficial10@gmail.com",
+  email: "rakibulislamashik78@gmail.com",
 };
 
 ```
 
 
-- 🔭 Currently Learning ** Node.js** 
+- 🔭 Currently Learning ** TypeScript** 
 - 🌱 Learning **React.js, Next.js & TypeScript**
 - 💡 Interested in **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
@@ -55,11 +55,11 @@ const morsalin = {
 
 
 
-> **KeenKeeper** — A multi-tool web application built with React.js. [Live Demo →](https://assigment-seven-sandy.vercel.app/)
+> **MediCare Connect** — Hospital Appointment & Healthcare Management System. [Live Demo →](https://medicare-connect-client-pi.vercel.app/)
 > <br/>
-> **Summer Sale** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with React.js.. [Live Demo →](https://summer-essentials-store-xi.vercel.app/)
+> **StudyNook** — On-Demand Resource Booking SaaS. [Live Demo →](https://study-nook-fawn.vercel.app)
 > <br/>
-> **AI Model Hub** — A comprehensive platform to explore and interact with various AI models, built with React.js. [Live Demo →](https://ai-model-hub-morsalin.netlify.app/)
+> **Summer Sale** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with Next.js.. [Live Demo →](https://summer-essentials-store-xi.vercel.app/)
 > <br/>
 > **Keen Keeper** — A modern platform for friends to connect, chat, and share moments effortlessly. [Live Demo →](https://a7-keen-keeper-friends.netlify.app/)
 
