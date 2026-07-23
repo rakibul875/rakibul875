@@ -42,7 +42,7 @@ const morsalin = {
 - 🌱 Learning **React.js, Next.js & TypeScript**
 - 💡 Interested in **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
-- 📫 Reach me at **rakibulislamashik@gmail.com**
+- 📫 Reach me at **rakibulislamashik78@gmail.com**
 
 ---
 
