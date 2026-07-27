@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const morsalin = {
+const info = {
   name: "Rakibul Islam Ashik",
   location: "Sherpur, Bangladesh",
   role: "Aspiring Software Engineer",
