@@ -27,7 +27,7 @@ const info = {
   education: "Diploma in Engineering", 
   training: "Professional Web Development Course @ Programming Hero",
   currentlyLearning: ["TypeScript", "System Design"],
-  askMeAbout: ["NextJs",React", "JavaScript", "Tailwind CSS", "Responsive Design"],
+  askMeAbout: [ "Next.Js","React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
   codingPhilosophy: "Clean code and scalable architecture",
   openTo: ["Internships", "Collaborations", "Freelance Projects"],
