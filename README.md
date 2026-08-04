@@ -92,7 +92,36 @@ const info = {
 ![](https://streak-stats.demolab.com/?user=rakibul875&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakibul875&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+=========================================================================================
+
+<br/>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakibul875&theme=tokyo-night&border_color=6C63FF&area=true)
+
+</div>
+
+==========================================================================================
+
 ---
-[![](https://komarev.com/ghpvc/?username=rakibul875&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-morsalin10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmorsalindeveloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibul875)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://morsalin-portfolio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
