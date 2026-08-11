@@ -38,7 +38,7 @@ const info = {
 ```
 
 
-- 🔭 Currently Learning ** TypeScript** 
+- 🔭 Currently Learning ** Prisma & PostgerSQL ** 
 - 🌱 Learning **React.js, Next.js & TypeScript**
 - 💡 Interested in **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
