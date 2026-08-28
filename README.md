@@ -100,7 +100,7 @@ const info = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakibul875&theme=tokyo-night&border_color=6C63FF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph-seven-puce.vercel.app/graph?username=rakibul875&theme=tokyo-night&border_color=6C63FF&area=true)
 
 </div>
 
