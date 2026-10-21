@@ -55,13 +55,15 @@ const info = {
 
 
 
+> **VanRaz** — Hospital Appointment & Healthcare Management System. [Live Demo →](https://ven-raz-client.vercel.app)
+> <br/>
 > **MediCare Connect** — Hospital Appointment & Healthcare Management System. [Live Demo →](https://medicare-connect-client-pi.vercel.app/)
 > <br/>
 > **StudyNook** — On-Demand Resource Booking SaaS. [Live Demo →](https://study-nook-fawn.vercel.app)
 > <br/>
 > **Summer Sale** — A dynamic, interactive app store clone featuring modern UI and seamless navigation with Next.js.. [Live Demo →](https://summer-essentials-store-xi.vercel.app/)
-> <br/>
-> **Keen Keeper** — A modern platform for friends to connect, chat, and share moments effortlessly. [Live Demo →](https://a7-keen-keeper-friends.netlify.app/)
+> 
+
 
 ---
 
