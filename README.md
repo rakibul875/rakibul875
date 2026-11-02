@@ -26,7 +26,7 @@ const info = {
   role: "Aspiring Software Engineer",
   education: "Diploma in Engineering", 
   training: "Professional Web Development Course @ Programming Hero",
-  currentlyLearning: ["prisma", "PostgerSQL"],
+  currentlyLearning: ["FastAPI", "NestJs"],
   askMeAbout: [ "Next.Js","React", "JavaScript", "Tailwind CSS", "Responsive Design"],
   tools: ["Figma", "Canva", "VS Code", "GitHub"],
   codingPhilosophy: "Clean code and scalable architecture",
